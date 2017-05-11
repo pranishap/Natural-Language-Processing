@@ -1,0 +1,14 @@
+confusion_matrix:
+
+[[ 1015     0     0     0     0]
+ [    0  1150     0     0     0]
+ [    0     0 23743     0     0]
+ [    0     0     0   569     0]
+ [    0     0     0     0  1556]]
+
+evaluation matrix:
+
+          i-misc  o i-per i-loc i-org
+precision      1  1     1     1     1
+recall         1  1     1     1     1
+f1             1  1     1     1     1
